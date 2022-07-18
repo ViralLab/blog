@@ -78,8 +78,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: varollab
+    url: https://twitter.com/varollab
     desc: Follow me on Twitter
     share: true
 
@@ -91,9 +91,4 @@ protocols:
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/png"
-
     twitter_image: "/assets/logo.png"
-
-    os_repo: "https://github.com/bencentra/centrarium.com"
-    os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
