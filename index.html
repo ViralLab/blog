@@ -14,6 +14,12 @@ pagination:
   </div>
 </div>
 
+<div>
+  {% for post in paginator.posts %}
+  <h1>{{ post.title }}</h1>
+{% endfor %}
+</div>
+
 <div class="wrapper">
 <ul class="post-list">
   {% for post in paginator.posts %}
